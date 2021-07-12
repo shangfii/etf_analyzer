@@ -7,5 +7,6 @@ The purpose of this exercise was to test knowlege on the sql and data base in ge
 
 Important librairiers imported and used are:
 1. Panda
-2. alchamy
-3. pathlib
+2. alchemy
+3. hvplot
+4. numpy
