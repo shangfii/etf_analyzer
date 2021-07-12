@@ -10,3 +10,5 @@ Important librairiers imported and used are:
 2. alchemy
 3. hvplot
 4. numpy
+
+# The results have been add here for easy access by the evaluating team
